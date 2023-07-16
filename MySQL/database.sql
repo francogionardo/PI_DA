@@ -1,0 +1,1 @@
+select * from 17_internet_tecnología_provincia
