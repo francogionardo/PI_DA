@@ -3,7 +3,6 @@
 </h1>
 
 <p align="center">
-  <img src="Image/logo.png" alt="Logo del Proyecto" style="float:right; width:80px;" />
 </p>
 
 <h2 align='center'>
